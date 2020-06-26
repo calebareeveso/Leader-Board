@@ -1,42 +1,56 @@
 [
   {
-    "id":"HNG-1005",
-    "name":"Rick",
-    "email":"rick@gmail.com",
-    "points" : "1"
-
-  },
-  {
     "id":"HNG-1245",
-    "name":"Glenn",
+    "name":"@Glenn",
     "email":"glenn@gmail.com",
     "points" : "1"
+  },
+  {
+    "id":"HNG-0045",
+    "name":"@ola",
+    "email":"ola111@gmail.com",
+    "points" : "0.1"
+
   },
   
   {
     "id":"HNG-1000",
-    "name":"Rickey",
+    "name":"@Rickey",
     "email":"riceyk@gmail.com",
     "points" : "2"
 
   },
-  
   {
     "id":"HNG-1045",
-    "name":"Glenney",
-    "email":"glenn12@gmail.com",
-    "points" : "1"
-  },
-  {
-    "id":"HNG-1045",
-    "name":"ok",
+    "name":"@ok",
     "email":"negan@gmail.com",
     "points" : "8"
 
   },
   {
+    "id":"HNG-1091",
+    "name":"@dope",
+    "email":"dope@gmail.com",
+    "points" : "9.5"
+
+  },
+  {
+    "id":"HNG-4045",
+    "name":"@smile",
+    "email":"smile@gmail.com",
+    "points" : "2.3"
+
+  },
+  {
+    "id":"HNG-0045",
+    "name":"@deji.ad",
+    "email":"deji1@gmail.com",
+    "points" : "1.4"
+
+  },
+  {
     "id":"HNG-3005",
-    "name":"Negaiy",
+    "name":"@Negaiy",
     "email":"negan@gmail.com",
     "points" : "4"
 
