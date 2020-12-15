@@ -26,4 +26,4 @@ After being displayed in that format, I run a loop to compare two different row 
 ## LIVE DEMO
   LINK:```https://calebareeveso.github.io/leader-board/```
 **Or**
-[My-Smart-Note-v1](https://calebareeveso.github.io/leader-board/)
+[leader-board](https://calebareeveso.github.io/leader-board/)
