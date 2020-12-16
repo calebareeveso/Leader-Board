@@ -24,6 +24,6 @@ After being displayed in that format, I run a loop to compare two different row 
 ## CONTRIBUTING 
  Pull request are welcomed,and please open an issue to discuss what you would like to change.
 ## LIVE DEMO
-  LINK:```https://calebareeveso.github.io/leader-board/```
+  LINK:```https://calebareeveso.github.io/Leader-Board/```
 **Or**
-[leader-board](https://calebareeveso.github.io/leader-board/)
+[leader-board](https://calebareeveso.github.io/Leader-Board/)
